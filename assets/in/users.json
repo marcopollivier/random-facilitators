@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "Alan",
+      "present": true
+    },
+    {
+      "id": 1,
+      "name": "Bruno",
+      "present": false
+    },
+    {
+      "id": 2,
+      "name": "Daniel",
+      "present": false
+    },
+    {
+      "id": 3,
+      "name": "Eron",
+      "present": true
+    },
+    {
+      "id": 4,
+      "name": "Felipe",
+      "present": true
+    },
+    {
+      "id": 5,
+      "name": "Guilherme",
+      "present": true
+    },
+    {
+      "id": 6,
+      "name": "Leticia",
+      "present": true
+    },
+    {
+      "id": 7,
+      "name": "Marco",
+      "present": true
+    },
+    {
+      "id": 8,
+      "name": "Stela",
+      "present": true
+    }
+  ]
+}

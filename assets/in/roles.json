@@ -1,0 +1,16 @@
+{
+  "roles": [
+    {
+      "id": 0,
+      "name": "facilitador"
+    },
+    {
+      "id": 1,
+      "name": "questionador"
+    },
+    {
+      "id": 2,
+      "name": "observador"
+    }
+  ]
+}
